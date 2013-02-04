@@ -8,3 +8,5 @@ Again sorry for posting this here, but seems a lack of community, or im prob jus
 ---
 You should contact Adam Shaw, the original author of FullCalendar, but it appears he did not include any new feature or bug fix (check the many pull requests with no answer) for a while now.
 What would be nice from him would be to officially state that FullCalendar is looking for a new maintainer.
+---
+Thanks, contacted Adam a few months back, no reply - guess he is busy with new things?
