@@ -1,5 +1,5 @@
 
-# Contributing
+# Contribute
 
 Do you want to help the FullCalendar project move forward? FullCalendar has become rather popular over the past few years and there is a lot to be done. Any time and effort you are willing to contribute is greatly appreciated! Here are the ways you can contribute:
 
