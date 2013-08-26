@@ -19,6 +19,8 @@ Use a service like [JSFiddle](http://jsfiddle.net/) or [JSBin](http://jsbin.com/
 - [Debugging Template](http://jsfiddle.net/arshaw/cr8zQ/)
 - [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/FxFba/)
 
+Instructions: *Fork* the fiddle, click *Update* when you're done, then *Share* the link.
+
 
 ## Step 3: Describe the bug
 
