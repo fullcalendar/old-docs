@@ -9,6 +9,8 @@ You can improve your chances of getting an answer if you clearly describe your s
 - [Debugging Template](http://jsfiddle.net/arshaw/cr8zQ/)
 - [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/FxFba/)
 
+Instructions: *Fork* the fiddle, click *Update* when you're done, then *Share* the link.
+
 
 ## Reporting a Bug
 
