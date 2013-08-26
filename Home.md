@@ -1,4 +1,4 @@
 - [[Support]]
-	- [[Request a Feature]]
 	- [[Report a Bug]]
+	- [[Request a Feature]]
 - [[Contribute]]
