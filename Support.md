@@ -1,4 +1,3 @@
-
 ## Getting Help
 
 Have a tough problem you can't figure out? Try searching the [documentation](../docs/) first. If you can't find what you're looking for, try Googling around.
@@ -7,8 +6,8 @@ If you still can't find an answer, post your question on the [StackOverflow **fu
 
 You can improve your chances of getting an answer if you clearly describe your situation and post code examples using tools like [JSFiddle](http://jsfiddle.net/). Here are some JSFiddle templates to help you get started:
 
-- [Basic Debugging Template](http://jsfiddle.net/arshaw/cr8zQ/)
-- [Basic Debugging Template, with event-data JSON](http://jsfiddle.net/arshaw/FxFba/)
+- [Debugging Template](http://jsfiddle.net/arshaw/cr8zQ/)
+- [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/FxFba/)
 
 
 ## Reporting a Bug
