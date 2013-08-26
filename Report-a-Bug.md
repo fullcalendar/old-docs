@@ -1,4 +1,3 @@
-
 # Report a Bug
 
 Do you think something is broken with FullCalendar's existing behavior? If so, please carefully follow these steps for reporting a bug:
@@ -17,8 +16,8 @@ More often than not, the problem is with your code, not with FullCalendar. To de
 
 Use a service like [JSFiddle](http://jsfiddle.net/) or [JSBin](http://jsbin.com/) to demonstrate the bug online. Enter your JS, CSS, HTML, and JSON and wire up all the relevant dependencies (jQuery, jQuery UI, etc). Here are some JSFiddle templates to help you get started:
 
-- [Basic Debugging Template](http://jsfiddle.net/arshaw/cr8zQ/)
-- [Basic Debugging Template, with event-data JSON](http://jsfiddle.net/arshaw/FxFba/)
+- [Debugging Template](http://jsfiddle.net/arshaw/cr8zQ/)
+- [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/FxFba/)
 
 
 ## Step 3: Describe the bug
