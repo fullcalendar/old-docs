@@ -4,7 +4,7 @@ Have a tough problem you can't figure out? Try searching the [documentation](../
 
 If you still can't find an answer, post your question on the [StackOverflow **fullcalendar** tag](http://stackoverflow.com/questions/tagged/fullcalendar). When entering a new question, make sure you tag it with **fullcalendar**.
 
-You can improve your chances of getting an answer if you clearly describe your situation and post code examples using tools like [JSFiddle](http://jsfiddle.net/). Here are some JSFiddle templates to help you get started:
+You can improve your chances of getting an answer if you clearly describe your situation, [reduce your problem](http://css-tricks.com/reduced-test-cases/) as much as possible, and post code examples using tools like [JSFiddle](http://jsfiddle.net/). Here are some JSFiddle templates to help you get started:
 
 - [Debugging Template](http://jsfiddle.net/arshaw/cr8zQ/)
 - [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/FxFba/)

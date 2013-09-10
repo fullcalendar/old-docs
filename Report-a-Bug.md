@@ -11,6 +11,8 @@ More often than not, the problem is with your code, not with FullCalendar. To de
 - Remove all unrelated 3rd party libraries
 - Remove all server-side logic. Use static HTML and JSON files instead.
 
+For more info on this technique, read [Reduced Test Cases](http://css-tricks.com/reduced-test-cases/).
+
 
 ## Step 2: Post a public demonstration of the bug
 
