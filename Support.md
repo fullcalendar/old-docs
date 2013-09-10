@@ -20,3 +20,11 @@ Think you've found a bug? Please carefully follow the [bug report instructions](
 ## Requesting a Feature
 
 Have an idea for a new feature? Please carefully follow the [feature request instructions](Request-a-Feature).
+
+
+## Browser Testing
+
+FullCalendar has been tested with:
+
+- jQuery 1.10.2  / jQuery UI 1.10.3
+- Firefox, Chrome, Safari, IE 7+
