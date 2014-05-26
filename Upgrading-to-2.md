@@ -114,7 +114,7 @@ The following date utility methods have also been affected:
 
 ## Internationalization
 
-The new [`lang`](../docs2/text/lang/) option provides built-in support for **38 locales**!
+The new [`lang`](../docs2/text/lang/) option provides built-in support for **41 locales**!
 
 Changing the locale affects the default values of many options
 (such as [`isRTL`](../docs2/display/isRTL/) and [`dayNames`](../docs2/text/dayNames/)).
@@ -180,7 +180,18 @@ If either the `start` or `end` value has a "T" as part of the ISO8601 date strin
 <tr><td><del><code>disableResizing</code></td></tr>
 </table>
 
-The [`forceEventDuration`](../docs2/event_data/forceEventDuration) and
-[`nextDayThreshold`](../docs2/event_rendering/nextDayThreshold) options have been added as well.
+[`forceEventDuration`](../docs2/event_data/forceEventDuration) has been added.
+When `true`, it will ensure that any event inputted with an empty `end` date will have that
+date computed via defaults instead of allowing it to remain `null`.
 
+[`nextDayThreshold`](../docs2/event_rendering/nextDayThreshold) as been added to
+prevent events which span past midnight from appearing as if they are multi-day.
 
+FullCalendar now registers itself as an **AMD module**.
+When loaded in this manner, it attaches itself to the `jquery` the AMD system provides.
+
+The HTML markup for buttons in the [header](../docs2/display/header/) has changed slightly,
+as well as the CSS method used to inject icon characters into those buttons.
+
+Timed events (events that are not all-day) can no longer be resized via the mouse in month
+and the basic views.
