@@ -81,13 +81,15 @@ This includes raw strings like `"02:00"` (two hours).
 
 ## Date Formatting and Parsing
 
-FullCalendar now leverges MomentJS for formatting dates into strings. Most of the formatting
+FullCalendar now leverges MomentJS for formatting dates into strings. Many of the formatting
 characters are the same, **but some have changed!**
 
 <table>
 <tr><th>Old Characters</th><th>New Characters</th></tr>
 <tr><td><code>yyyy</code> (4 digit year)</td><td><code>YYYY</code></td></tr>
 <tr><td><code>yy</code> (2 digit year)</td><td><code>YY</code></td></tr>
+<tr><td><code>dd</code> (2 digit date of month)</td><td><code>DD</code></td></tr>
+<tr><td><code>d</code> (1 digit date of month)</td><td><code>D</code></td></tr>
 <tr><td><code>tt</code> (am or pm)</td><td><code>a</code></td></tr>
 <tr><td><code>TT</code> (AM or PM)</td><td><code>A</code></td></tr>
 <tr><td><code>S</code> (st, nd, rd, th)</td><td><code>o</code></td></tr>
