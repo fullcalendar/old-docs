@@ -11,6 +11,13 @@ FullCalendar has a lot of configuration options and some complex behavior, and o
 Visit the [StackOverflow **fullcalendar** tag](http://stackoverflow.com/questions/tagged/fullcalendar)
 
 
+## Writing Automated Tests
+
+As the new features are built and the codebase grows, automated tests become increasingly important. The goal is to reach complete code and API coverage through automated tests written with Jasmine and Karma.
+
+Visit the [Automated Test README](https://github.com/arshaw/fullcalendar/blob/v2/tests/automated_test_readme.md)
+
+
 ## Issue Tracker Triage
 
 The issue tracker gets submissions that are often not very useful in their initial form. They need to be fleshed out in some way:
@@ -29,16 +36,9 @@ If you know what you're doing with issue triage, and would like to contribute, p
 
 FullCalendar uses GitHub for source code collaboration. Pull requested are accepted (albeit a little backed up right now). Plans are in the works for improving this process.
 
-There is currently no official style guide. For now, simply try to mimic the style of the existing code. Look at the repo's readme for getting started with development.
-
-Visit [FullCalendar on GitHub](https://github.com/arshaw/fullcalendar)
+Visit [FullCalendar on GitHub](https://github.com/arshaw/fullcalendar). Look at the README to learn the correct development practices.
 
 
 ## Improving the Docs
 
 The documentation needs some love, especially with providing examples. An official process is not yet in place, but if you are interested in helping at some point, please [contact me](../../contact/).
-
-
-## Writing Tests
-
-The goal is to reach complete code coverage with unit tests. A testing framework is not yet in place, but if you are interested in writing tests in the future, please [contact me](../../contact/).

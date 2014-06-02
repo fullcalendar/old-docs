@@ -145,7 +145,7 @@ Certain existing options were modified for timezone support:
 
 <table>
 <tr><th>Option</th><th>Upgrade Notes</th></tr>
-<tr><td><a href='../docs2/event_data/events_function/'><code>events</code> as a function</a></td><td>Receives a <code>timezone</code> parameter</td></tr>
+<tr><td><a href='../docs2/event_data/events_function/'><code>events</code> as a function</a></td><td>Receives a <code>timezone</code> parameter.<br /><b>Changes the argument order for <code>callback</code>!</b></td></tr>
 <tr><td><a href='../docs2/event_data/events_json_feed/'><code>events</code> as a JSON feed</a></td><td>Might send a <code>timezone</code> parameter in the request</td></tr>
 <tr><td><del><code>ignoreTimezone</code></del></td><td>Was a bad idea in the first place</td></tr>
 <tr><td><del><code>currentTimezone</code></del><br />(Google Calendar plugin option)</td><td>Uses the calendar's <code>timezone</code> option instead</td></tr>
@@ -162,7 +162,8 @@ options have been added as well.
 
 <table>
 <tr><th>Option</th><th>Upgrade Notes</th></tr>
-<tr><td><a href='../docs2/event_data/events_json_feed/'><code>events</code> as a JSON feed</a></td><td>sends ISO8601 dates for <code>start</code> and <code>end</code></td></tr>
+<tr><td><a href='../docs2/event_data/events_function/'><code>events</code> as a function</a></td><td>Receives a <code>timezone</code> parameter.<br /><b>Changes the argument order for <code>callback</code>!</b></td></tr>
+<tr><td><a href='../docs2/event_data/events_json_feed/'><code>events</code> as a JSON feed</a></td><td>Sends ISO8601 dates for <code>start</code> and <code>end</code></td></tr>
 <tr><td><a href='../docs2/event_data/allDayDefault/'><code>allDayDefault</code></a></td><td>Defaults to <code>undefined</code> instead of <code>true</code> to allow for the smart <code>allDay</code> guessing behavior...</td></tr>
 </table>
 
@@ -171,7 +172,11 @@ FullCalendar is now smarter about guessing it.
 If either the `start` or `end` value has a "T" as part of the ISO8601 date string,
 `allDay` will become `false`. Otherwise, it will be `true`.
 
-## Miscellaneous Changes
+[`forceEventDuration`](../docs2/event_data/forceEventDuration) has been added.
+When `true`, it will ensure that any event inputted with an empty `end` date will have that
+date computed via defaults instead of allowing it to remain `null`.
+
+## Other API Changes
 
 <table>
 <tr><th>Option</th><th>Upgrade Notes</th></tr>
@@ -182,18 +187,20 @@ If either the `start` or `end` value has a "T" as part of the ISO8601 date strin
 <tr><td><del><code>disableResizing</code></td></tr>
 </table>
 
-[`forceEventDuration`](../docs2/event_data/forceEventDuration) has been added.
-When `true`, it will ensure that any event inputted with an empty `end` date will have that
-date computed via defaults instead of allowing it to remain `null`.
-
 [`nextDayThreshold`](../docs2/event_rendering/nextDayThreshold) as been added to
 prevent events which span past midnight from appearing as if they are multi-day.
-
-FullCalendar now registers itself as an **AMD module**.
-When loaded in this manner, it attaches itself to the `jquery` the AMD system provides.
 
 The HTML markup for buttons in the [header](../docs2/display/header/) has changed slightly,
 as well as the CSS method used to inject icon characters into those buttons.
 
 Timed events (events that are not all-day) can no longer be resized via the mouse in month
 and the basic views.
+
+## AMD Module
+
+FullCalendar now registers itself as an **AMD module** for use with loaders like [RequireJS](http://requirejs.org/).
+When loaded in this manner, it attaches itself to the `jquery` the AMD system provides.
+
+## No More IE7 Support
+
+Official support for IE7 has been dropped but support for IE8 and above remains.
