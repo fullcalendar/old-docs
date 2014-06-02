@@ -26,5 +26,5 @@ Have an idea for a new feature? Please carefully follow the [feature request ins
 
 FullCalendar has been tested with:
 
-- jQuery 1.10.2  / jQuery UI 1.10.3
-- Firefox, Chrome, Safari, IE 7+
+- jQuery 1.11.1  / jQuery UI 1.10.4
+- Firefox, Chrome, Safari, IE 8+
