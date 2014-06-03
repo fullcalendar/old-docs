@@ -15,7 +15,7 @@ Visit the [StackOverflow **fullcalendar** tag](http://stackoverflow.com/question
 
 As the new features are built and the codebase grows, automated tests become increasingly important. The goal is to reach complete code and API coverage through automated tests written with Jasmine and Karma.
 
-Visit the [Automated Test README](https://github.com/arshaw/fullcalendar/blob/v2/tests/automated_test_readme.md)
+Visit the [Automated Test README](https://github.com/arshaw/fullcalendar/blob/master/tests/automated_test_readme.md)
 
 
 ## Issue Tracker Triage
