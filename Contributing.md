@@ -12,7 +12,7 @@ Visit the [StackOverflow **fullcalendar** tag](http://stackoverflow.com/question
 
 As the new features are built and the codebase grows, automated tests become increasingly important. The goal is to reach complete code and API coverage through automated tests written with Jasmine and Karma.
 
-Visit the [Automated Test Readme](Automated-Tests)
+Visit the [Automated Test Readme](https://github.com/arshaw/fullcalendar/wiki/Automated-Tests)
 
 
 ## Issue Tracker Triage
@@ -31,7 +31,7 @@ If you know what you're doing with issue triage, and would like to contribute, p
 
 ## Writing Code
 
-Visit the [Contributing Code Guidelines](Contributing-Code)
+Visit the [Contributing Code Guidelines](https://github.com/arshaw/fullcalendar/wiki/Contributing-Code)
 
 
 ## Improving the Docs
