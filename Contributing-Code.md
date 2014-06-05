@@ -78,7 +78,7 @@ If you have edited code (including **tests** and **translations**) and would lik
 
 1. Conformed to the style guide (successfully run `grunt check`)
 
-2. Written automated tests. View the [Automated Test README]
+2. Written automated tests. View the [Automated Test Readme]
 
 
 [git]: http://git-scm.com/
@@ -88,4 +88,4 @@ If you have edited code (including **tests** and **translations**) and would lik
 [jq-readme]: https://github.com/jquery/jquery/blob/master/README.md#what-you-need-to-build-your-own-jquery
 [karma]: http://karma-runner.github.io/0.10/index.html
 [Google JavaScript Style Guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
-[Automated Test README]: ./tests/automated_test_readme.md
+[Automated Test Readme]: Automated-Tests
