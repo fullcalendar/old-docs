@@ -1,4 +1,3 @@
-- [[Upgrading to v2]]
 - [[Support]]
 	- [[Reporting Bugs]]
 	- [[Requesting Features]]
