@@ -11,4 +11,4 @@ Going through the issue tracker and posting a recreation of the bug first helps 
 [pull request]: https://help.github.com/articles/using-pull-requests
 [fork]: https://help.github.com/articles/fork-a-repo
 [issue tracker]: https://code.google.com/p/fullcalendar/issues/list
-[Bug Report Instructions]: http://arshaw.com/fullcalendar/wiki/Report-a-Bug/
+[Bug Report Instructions]: Reporting-Bugs
