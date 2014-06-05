@@ -14,12 +14,12 @@ Instructions: *Fork* the fiddle, click *Update* when you're done, then *Share* t
 
 ## Reporting a Bug
 
-Think you've found a bug? Please carefully follow the [bug report instructions](Report-a-Bug).
+Think you've found a bug? Please carefully follow the [bug report instructions](Reporting-Bugs).
 
 
 ## Requesting a Feature
 
-Have an idea for a new feature? Please carefully follow the [feature request instructions](Request-a-Feature).
+Have an idea for a new feature? Please carefully follow the [feature request instructions](Requesting-Features).
 
 
 ## Browser Testing
