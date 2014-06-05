@@ -31,9 +31,7 @@ If you know what you're doing with issue triage, and would like to contribute, p
 
 ## Writing Code
 
-FullCalendar uses GitHub for source code collaboration. Pull requested are accepted (albeit a little backed up right now). Plans are in the works for improving this process.
-
-Visit [FullCalendar on GitHub](https://github.com/arshaw/fullcalendar). Look at the README to learn the correct development practices.
+Visit the [Contributing Code Guidelines](Contributing-Code)
 
 
 ## Improving the Docs
