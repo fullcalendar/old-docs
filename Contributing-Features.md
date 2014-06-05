@@ -1,5 +1,3 @@
-## Contributing Code for a *Feature*
-
 Say you have an idea for a new feature or maybe you've already coded it. How do you incorporate it into the project's main codebase for all to use? Should you submit a [pull request] through Github?
 
 Firstly, there is a lot of demand for a lot of features already. Just look at the [issue tracker][issue tracker features], there are almost 100. Priority goes to features that demonstrate high demand (mostly through number of stars) weighed by ease of implementation. But let's say you've already written the code for a new feature. Even the most perfectly crafted pull request takes work to review and merge. Please realize that it might be a better use of a core contributor's time implementing a different high-priority feature from scratch rather than merging an already-implemented low-priority feature.
