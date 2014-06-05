@@ -153,7 +153,7 @@ If you have any questions on what to tests, or how to organize your tests, post 
 [Jasmine Introduction]: http://jasmine.github.io/2.0/introduction.html
 [Karma]: http://karma-runner.github.io/
 [FullCalendar Documentation]: http://arshaw.com/fullcalendar/docs2/
-[Style Guide]: https://github.com/arshaw/fullcalendar/tree/master#style-guide
+[Style Guide]: Contributing-Code#style-guide
 [Google Group]: https://groups.google.com/forum/#!forum/fullcalendar
 [How to create a PR]: https://help.github.com/articles/creating-a-pull-request
 [minTime]: https://github.com/arshaw/fullcalendar/blob/master/tests/automated/minTime.js
