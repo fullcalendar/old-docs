@@ -1,5 +1,3 @@
-# Report a Bug
-
 Do you think something is broken with FullCalendar's existing behavior? If so, please carefully follow these steps for reporting a bug:
 
 
