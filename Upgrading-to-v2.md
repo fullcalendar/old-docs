@@ -126,7 +126,7 @@ Other affected locale-related options:
 <tr><td><a href='../docs2/display/weekNumberCalculation/'><code>weekNumberCalculation</code></a></td><td>new <code>"local"</code> option, which is now the default</td></tr>
 </table>
 
-**[View a live demo!](../../../js/fullcalendar-2.0.0/demos/languages.html)**
+**[View a live demo!](../../../js/fullcalendar-2-latest/demos/languages.html)**
 
 ## Timezones
 
@@ -153,7 +153,7 @@ The
 <a href='../docs2/timezone/now/'><code>now</code></a>
 options have been added as well.
 
-**[View a live demo!](../../../js/fullcalendar-2.0.0/demos/timezones.html)**
+**[View a live demo!](../../../js/fullcalendar-2-latest/demos/timezones.html)**
 
 ## Requesting and Receiving Events
 
