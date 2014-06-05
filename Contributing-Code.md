@@ -1,4 +1,9 @@
-## Getting Set Up
+Before you decide to write or contribute code, *please please please* read one of the following documents:
+
+- [**Contributing Features**](Contributing-Features)
+- [**Contributing Bugfixes**](Contributing-Bugfixes)
+
+### Getting Set Up
 
 You will need [Git][git], [Node][node], and NPM installed. For clarification, please view the [jQuery readme][jq-readme], which requires a similar setup.
 
@@ -67,7 +72,7 @@ Run the command line tool to automatically check your style:
 	grunt check
 
 
-## Before Contributing!
+## Before Submitting your Code!
 
 If you have edited code (including **tests** and **translations**) and would like to submit a pull request, please make sure you have done the following:
 
