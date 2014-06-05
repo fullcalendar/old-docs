@@ -16,8 +16,8 @@ For more info on this technique, read [Reduced Test Cases](http://css-tricks.com
 
 Use a service like [JSFiddle](http://jsfiddle.net/) or [JSBin](http://jsbin.com/) to demonstrate the bug online. Enter your JS, CSS, HTML, and JSON and wire up all the relevant dependencies (jQuery, jQuery UI, etc). Here are some JSFiddle templates to help you get started:
 
-- [Debugging Template](http://jsfiddle.net/arshaw/cr8zQ/)
-- [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/FxFba/)
+- [Debugging Template](http://jsfiddle.net/arshaw/3E8nk/)
+- [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/A6ksz/)
 
 Instructions: *Fork* the fiddle, click *Update* when you're done, then *Share* the link.
 
