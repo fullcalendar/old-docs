@@ -63,7 +63,7 @@ Other exceptions:
 
 Notes about whitespace:
 
-- use *tabs* instead of spaces
+- **use *tabs* instead of spaces**
 - separate functions with *2* blank lines
 - separate logical blocks within functions with *1* blank line
 
