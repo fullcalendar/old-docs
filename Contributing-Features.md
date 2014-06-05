@@ -10,7 +10,7 @@ Github is a great tool for code collaboration and we are very thankful for every
 
 2. **Think of the best API** (option names, public methods) making it as flexible and useful to other developers as possible. Read the existing comments on the ticket for inspiration. Propose your ideas in comments.
 
-3. If you've been given confirmation from others that you are onto something and want to begin coding (or already have), **post a link to your [fork] in the comments of the issue**. Doing this will allow others who care about the feature to play around with it and offer suggestions. Do not submit a pull request yet.
+3. If you've been given confirmation from others that you are onto something and want to begin coding (or already have, following the [Coding Guidelines]), **post a link to your [fork] in the comments of the issue**. Doing this will allow others who care about the feature to play around with it and offer suggestions. Do not submit a pull request yet.
 
 4. Core contributors of the project will monitor the issue tracker, hopefully partake in discussion about the optimal implementation, and will recognize when the feature is ready to be moved over to Github in the form of a pull request. This is when the code collaboration begins.
 
@@ -20,4 +20,5 @@ Please note that all of this might take a long time. We are really sorry. It's n
 [fork]: https://help.github.com/articles/fork-a-repo
 [issue tracker]: https://code.google.com/p/fullcalendar/issues/list
 [issue tracker features]: https://code.google.com/p/fullcalendar/issues/list?can=2&q=type=Feature
-[Feature Request Guidelines]: http://arshaw.com/fullcalendar/wiki/Request-a-Feature/
+[Coding Guidelines]: Contributing-Code
+[Feature Request Guidelines]: Requesting-Features
