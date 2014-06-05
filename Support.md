@@ -6,8 +6,8 @@ If you still can't find an answer, post your question on the [StackOverflow **fu
 
 You can improve your chances of getting an answer if you clearly describe your situation, [reduce your problem](http://css-tricks.com/reduced-test-cases/) as much as possible, and post code examples using tools like [JSFiddle](http://jsfiddle.net/). Here are some JSFiddle templates to help you get started:
 
-- [Debugging Template](http://jsfiddle.net/arshaw/cr8zQ/)
-- [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/FxFba/)
+- [Debugging Template](http://jsfiddle.net/arshaw/3E8nk/)
+- [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/A6ksz/)
 
 Instructions: *Fork* the fiddle, click *Update* when you're done, then *Share* the link.
 
