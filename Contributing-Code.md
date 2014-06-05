@@ -3,7 +3,7 @@ Before you decide to write or contribute code, *please please please* read one o
 - [**Contributing Features**](Contributing-Features)
 - [**Contributing Bugfixes**](Contributing-Bugfixes)
 
-### Getting Set Up
+## Getting Set Up
 
 You will need [Git][git], [Node][node], and NPM installed. For clarification, please view the [jQuery readme][jq-readme], which requires a similar setup.
 
