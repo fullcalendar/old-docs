@@ -1,6 +1,3 @@
-
-# Upgrading to 2.x
-
 FullCalendar version 2.0 ([full documentation](../docs2/))
 offers huge improvements in regards to timezones, internationalization,
 and date manipulation. Much of this is due to intergration with [MomentJS](http://momentjs.com/),
