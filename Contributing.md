@@ -12,15 +12,15 @@ Visit the [StackOverflow **fullcalendar** tag](http://stackoverflow.com/question
 
 As the new features are built and the codebase grows, automated tests become increasingly important. The goal is to reach complete code and API coverage through automated tests written with Jasmine and Karma.
 
-Visit the [Automated Test README](https://github.com/arshaw/fullcalendar/blob/master/tests/automated_test_readme.md)
+Visit the [Automated Test Readme](Automated-Tests)
 
 
 ## Issue Tracker Triage
 
 The issue tracker gets submissions that are often not very useful in their initial form. They need to be fleshed out in some way:
 
-- A bug that is not fully reproducable. The submitter needs help following the [bug report instructions](Report-a-Bug).
-- A feature request that is not sufficiently described, according to the [feature request instructions](Request-a-Feature)
+- A bug that is not fully reproducable. The submitter needs help following the [bug report instructions](Reporting-Bugs).
+- A feature request that is not sufficiently described, according to the [feature request instructions](Requesting-Features)
 - A report that already exists and should be marked as "Duplicate". This is not as easy as it sounds, as there are hundreds of issues!
 - An issue that is not really an issue and should be marked as "Invalid". Example: a question that should be asked on StackOverflow instead.
 
