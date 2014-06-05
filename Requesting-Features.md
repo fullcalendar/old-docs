@@ -1,5 +1,3 @@
-# Request a Feature
-
 Have an idea for a new feature? If so, please carefully follow these steps:
 
 
