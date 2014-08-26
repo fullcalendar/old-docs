@@ -26,9 +26,9 @@ Affected options:
 <tr><td><a href='../docs2/current_date/getDate/'><code>getDate</code> method</a></td></tr>
 <tr><td><a href='../docs2/event_data/events_function/'><code>events</code> as a function</a></td></tr>
 <tr><td><a href='../docs2/display/dayRender/'><code>dayRender</code> callback</a></td></tr>
-<tr><td><a href='../docs2/mouse/dayClick/'><code>dayClick</code> callback</a></td><td rowspan='2'>Uses Moments, which may be <a href='../docs2/utilities/Moment#ambiguously-timed'>ambiguously-timed</a>.<br /><code>allDay</code> parameter removed.</td></tr>
+<tr><td><a href='../docs2/mouse/dayClick/'><code>dayClick</code> callback</a></td><td rowspan='2'>Uses Moments, which may be <a href='../docs2/utilities/Moment#ambiguously-timed'>ambiguously-timed</a>.<br /><code>allDay</code> removed, <code>delta</code> added</td></tr>
 <tr><td><a href='../docs2/dropping/drop/'><code>drop</code> callback</a></td></tr>
-<tr><td><a href='../docs2/event_ui/eventDrop/'><code>eventDrop</code> callback</a></td><td rowspan='2'>Uses Moments, which may be <a href='../docs2/utilities/Moment#ambiguously-timed'>ambiguously-timed</a>.<br /><code>allDay</code> and <code>delta</code> parameters removed.</td></tr>
+<tr><td><a href='../docs2/event_ui/eventDrop/'><code>eventDrop</code> callback</a></td><td rowspan='2'>Uses Moments, which may be <a href='../docs2/utilities/Moment#ambiguously-timed'>ambiguously-timed</a>.<br /><code>allDay</code> removed, <code>delta</code> added</td></tr>
 <tr><td><a href='../docs2/event_ui/eventResize/'><code>eventResize</code> callback</a></td></tr>
 <tr><td><a href='../docs2/selection/select_callback/'><code>select</code> callback</a></td><td rowspan='2'>Uses Moments, which may be <a href='../docs2/utilities/Moment#ambiguously-timed'>ambiguously-timed</a>.<br /><code>allDay</code> parameter removed. <code>end</code> is now <b>exclusive!</b></td></tr>
 <tr><td><a href='../docs2/selection/select_method/'><code>select</code> method</a></td></tr>
