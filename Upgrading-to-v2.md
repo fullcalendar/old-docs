@@ -113,7 +113,7 @@ The following date utility methods have also been affected:
 
 ## Internationalization
 
-The new [`lang`](../docs2/text/lang/) option provides built-in support for **41 locales**!
+The new [`lang`](../docs2/text/lang/) option provides built-in support for over **40 locales**!
 
 Changing the locale affects the default values of many options
 (such as [`isRTL`](../docs2/display/isRTL/) and [`dayNames`](../docs2/text/dayNames/)).
