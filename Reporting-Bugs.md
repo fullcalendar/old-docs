@@ -14,12 +14,12 @@ For more info on this technique, read [Reduced Test Cases](http://css-tricks.com
 
 ## Step 2: Post a public demonstration of the bug
 
-Use a service like [JSFiddle](http://jsfiddle.net/) or [JSBin](http://jsbin.com/) to demonstrate the bug online. Enter your JS, CSS, HTML, and JSON and wire up all the relevant dependencies (jQuery, jQuery UI, etc). Here are some JSFiddle templates to help you get started:
+Use a service like [JSBin](http://jsbin.com/) or [JSFiddle](http://jsfiddle.net/) to demonstrate the bug online. Enter your JS, CSS, HTML, and JSON and wire up all the relevant dependencies (jQuery, Moment, etc). Here are some debugging templates to help you get started:
 
-- [Debugging Template](http://jsfiddle.net/arshaw/3E8nk/)
-- [Debugging Template, with JSON event data](http://jsfiddle.net/arshaw/A6ksz/)
+- <a href='../playground/jsbin.php' target='_blank'>Debugging Template</a>
+- <a href='../playground/jsbin.php?demo=json' target='_blank'>Debugging Template, with JSON event data</a>
 
-Instructions: *Fork* the fiddle, click *Update* when you're done, then *Share* the link.
+Instructions: Make your changes, Click *Share* at the top, then get the *Link*.
 
 
 ## Step 3: Describe the bug
