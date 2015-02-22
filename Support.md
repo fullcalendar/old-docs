@@ -24,7 +24,8 @@ Have an idea for a new feature? Please carefully follow the [feature request ins
 
 ## Browser Testing
 
-FullCalendar has been tested with:
+FullCalendar is compatible with:
 
-- jQuery 1.11.1  / jQuery UI 1.10.4
 - Firefox, Chrome, Safari, IE 8+
+- jQuery 1.7.1+
+- Moment 2.5.0+
