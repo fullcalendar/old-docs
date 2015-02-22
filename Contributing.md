@@ -29,4 +29,4 @@ Visit the [Contributing Code Guidelines](https://github.com/arshaw/fullcalendar/
 
 ## Improving the Docs
 
-The documentation needs some love, especially with providing examples. An official process is not yet in place, but if you are interested in helping at some point, please [contact me](../../contact/).
+The documentation needs some love, especially with providing examples. An official process is not yet in place, but if you are interested in helping at some point, please [contact me](http://arshaw.com/contact/).
