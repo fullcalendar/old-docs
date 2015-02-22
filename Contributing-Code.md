@@ -17,7 +17,8 @@ Then, clone FullCalendar's git repo:
 
 Enter the directory and install FullCalendar's development dependencies:
 
-	cd fullcalendar && npm install
+	cd fullcalendar
+	./build/init.sh
 
 
 ## Development Workflow
