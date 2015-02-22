@@ -8,13 +8,6 @@ FullCalendar has a lot of configuration options and some complex behavior, and o
 Visit the [StackOverflow **fullcalendar** tag](http://stackoverflow.com/questions/tagged/fullcalendar)
 
 
-## Writing Automated Tests
-
-As the new features are built and the codebase grows, automated tests become increasingly important. The goal is to reach complete code and API coverage through automated tests written with Jasmine and Karma.
-
-Visit the [Automated Test Readme](https://github.com/arshaw/fullcalendar/wiki/Automated-Tests)
-
-
 ## Issue Tracker Triage
 
 The issue tracker gets submissions that are often not very useful in their initial form. They need to be fleshed out in some way:
