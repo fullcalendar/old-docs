@@ -35,7 +35,7 @@ At this point, anyone should be able to open up your JSFiddle demonstration, rea
 
 If this is true, please move on to the appropriate issue tracker:
 
-- [FullCalendar (Standard Edition) issue tracker](https://code.google.com/p/fullcalendar/issues/list) (requires a Google account)
-- [FullCalendar Scheduler issue tracker](https://github.com/fullcalendar/fullcalendar-scheduler/issues) (requires a Github account)
+- [FullCalendar (Standard) issue tracker](https://github.com/fullcalendar/fullcalendar/issues)
+- [FullCalendar Scheduler issue tracker](https://github.com/fullcalendar/fullcalendar-scheduler/issues)
 
 It is a good idea to search through the list to see if someone has already reported your bug. If so, simply star it to receive notifications about progress. Please enter only one bug per issue and do not combine issues.

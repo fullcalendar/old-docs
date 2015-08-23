@@ -26,7 +26,7 @@ For API improvements, such as new options or methods, please write some example 
 
 If you are confident you have followed all the above steps, enter your feature request into the appropriate issue tracker:
 
-- [FullCalendar (Standard Edition) issue tracker](https://code.google.com/p/fullcalendar/issues/list) (requires a Google account)
-- [FullCalendar Scheduler issue tracker](https://github.com/fullcalendar/fullcalendar-scheduler/issues) (requires a Github account)
+- [FullCalendar (Standard) issue tracker](https://github.com/fullcalendar/fullcalendar/issues)
+- [FullCalendar Scheduler issue tracker](https://github.com/fullcalendar/fullcalendar-scheduler/issues)
 
 Please enter only one feature request per issue and do not combine issues.
