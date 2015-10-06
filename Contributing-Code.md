@@ -22,6 +22,15 @@ Along with your bugfix, it is important to include a description
 and [JSFiddle/JSBin] recreation of the bug to communicate what is being fixed.
 
 
+## Contributing Languages
+
+Please edit the original files in the `lang/` directory.
+DO NOT edit anything in the `dist/` directory.
+The build system
+will responsible for merging FullCalendar's `lang/` data with the
+[MomentJS locale data].
+
+
 ## Getting Set Up
 
 You will need [Git][git], [Node][node], and NPM installed. For clarification, please view the [jQuery readme][jq-readme], which requires a similar setup.
@@ -111,3 +120,4 @@ If you have edited code (including **tests** and **translations**) and would lik
 [Automated Test Readme]: Automated-Tests
 [JSFiddle/JSBin]: http://fullcalendar.io/wiki/Reporting-Bugs/
 [Using Pull Requests]: https://help.github.com/articles/using-pull-requests/
+[MomentJS locale data]: https://github.com/moment/moment/tree/develop/locale
