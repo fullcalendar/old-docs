@@ -1,3 +1,27 @@
+Code contributions are accepted via [Pull Request][Using Pull Requests].
+When modifying files, please do not edit the generated or minified files
+in the `dist/` directory. Please edit the original `src/` or `lang/` files.
+
+
+## Contributing Features
+
+The FullCalendar project welcomes PRs for new features,
+but because there are so many feature requests (over 100),
+and because every new feature requires refinement and maintenance,
+each PR will be aggressively prioritized
+and might take a while to make it to an official release.
+
+Furthermore, each new feature should be designed as robustly as possible
+and be useful beyond the immediate usecase it was initially designed for.
+Feel free to start a ticket discussing the feature's specs before coding.
+
+
+## Contributing Bugfixes
+
+Along with your bugfix, it is important to include a description
+and [JSFiddle/JSBin] recreation of the bug to communicate what is being fixed.
+
+
 ## Getting Set Up
 
 You will need [Git][git], [Node][node], and NPM installed. For clarification, please view the [jQuery readme][jq-readme], which requires a similar setup.
@@ -85,3 +109,5 @@ If you have edited code (including **tests** and **translations**) and would lik
 [karma]: http://karma-runner.github.io/0.10/index.html
 [Google JavaScript Style Guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 [Automated Test Readme]: Automated-Tests
+[JSFiddle/JSBin]: http://fullcalendar.io/wiki/Reporting-Bugs/
+[Using Pull Requests]: https://help.github.com/articles/using-pull-requests/
