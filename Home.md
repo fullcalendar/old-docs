@@ -3,6 +3,5 @@
 	- [[Requesting Features]]
 - [[Contributing]]
 	- [[Contributing Code]]
-	- [[Contributing Bugfixes]]
 	- [[Contributing Features]]
 	- [[Automated Tests]]
