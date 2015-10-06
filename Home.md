@@ -3,5 +3,4 @@
 	- [[Requesting Features]]
 - [[Contributing]]
 	- [[Contributing Code]]
-	- [[Contributing Features]]
 	- [[Automated Tests]]
