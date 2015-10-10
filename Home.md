@@ -2,5 +2,4 @@
 	- [[Reporting Bugs]]
 	- [[Requesting Features]]
 - [[Contributing]]
-	- [[Contributing Code]]
-	- [[Automated Tests]]
+- [[Automated Tests]]

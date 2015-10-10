@@ -24,7 +24,8 @@ If you know what you're doing with issue triage, and would like to contribute, p
 
 ## Writing Code
 
-Visit the [Contributing Code Guidelines](https://github.com/arshaw/fullcalendar/wiki/Contributing-Code)
+The project welcomes bugfixes and features.
+[Instructions for contributing code &raquo;](https://github.com/fullcalendar/fullcalendar/blob/master/CONTRIBUTING.md)
 
 
 ## Improving the Docs
