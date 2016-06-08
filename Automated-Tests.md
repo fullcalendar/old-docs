@@ -21,8 +21,6 @@ Both commands will watch for any changes made to source files or test files, and
 
 # Workflow
 
-Once you are set up with the spreadsheet, there is the procedure for claiming/submitting tests:
-
 1. Create one `.js` file per "thing" you are testing. Put it in the top-level `/tests/automated/` directory. Please do not make nested folders.
 
 2. Write the tests. Look at other tests in the directory for inspiration on how a test file is laid out.
