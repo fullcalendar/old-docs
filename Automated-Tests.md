@@ -19,44 +19,15 @@ Alternatively, you can run the tests headlessly:
 Both commands will watch for any changes made to source files or test files, and then automatically rereun the tests.
 
 
-# Collaboration Resources
-
-Please join the FullCalendar group:
-
-> ["FullCalendar Development" Google Group][Google Group]
-
-You will be approved and then given access to other necessary documents.
-
-At least initially, we will have multiple people writing tests concurrently. I have set up a Google Docs spreadsheet as a low-tech means of keeping track of who is assigned to a what tests, status of each tests, and special notes on what to test. The spreadsheet can be found here:
-
-> [Tests Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0Aq5L0JhW6heOdDRsMWM3akQxN2Q4QV9pNDI1TTlpNHc&usp=sharing)
-
-The spreadsheet can be viewed by anyone but it can only be modified by people who have been given permission. Once you join the Google Group you will soon be sent an invitation to modify the spreadsheet.
-
-
 # Workflow
 
 Once you are set up with the spreadsheet, there is the procedure for claiming/submitting tests:
 
-1. Find a test that has not been claimed. Unclaimed tests will have an empty **Tester** column. Enter your name. **Please start with tests that have a Milestone of 2!** We are trying to get v2.0 functionality under test before anything else.
+1. Create one `.js` file per "thing" you are testing. Put it in the top-level `/tests/automated/` directory. Please do not make nested folders.
 
-2. Enter the **Status** column as "in progress".
+2. Write the tests. Look at other tests in the directory for inspiration on how a test file is laid out.
 
-3. Consult the relevant [documentation][FullCalendar Documentation] and wrap your head around all of the behaviors, both obvious and subtle.
-
-4. Look at the **Notable things to test** column for any gotchas or clarifications.
-
-5. Create one `.js` file per "thing" you are testing. Put it in the top-level `/tests/automated/` directory. Please do not make nested folders.
-
-6. Write the tests. Look at other tests in the directory for inspiration on how a test file is laid out.
-
-7. Make sure your tests pass. Run the `grunt karma` commands mentioned above.
-
-8. Submit your code as a pull request to the main FullCalendar repo. [How to create a PR].
-
-9. Change the **Status** column to "pr".
-
-10. Someone will review the tests to make sure they are cool. When that is done they will either change the status to "merged" if it is good, or to "feedback". Feedback on necessary changes will be written into the **Notable things to tests column**. The reviewer will contact you back. Make your changes and then resubmit the PR. Repeat until all is good.
+3. Make sure your tests pass. Run the `grunt karma` commands mentioned above.
 
 
 # Organizing your tests
