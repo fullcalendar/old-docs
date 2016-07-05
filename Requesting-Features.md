@@ -7,6 +7,10 @@ There are over 100 existing feature requests. Someone else probably already want
 
 Comments like "+1" or "when will this be done?" will be ignored. Only <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png" width="20" height="20" style="vertical-align:baseline" /> reactions on the topmost description will be counted.
 
+<a href="http://fullcalendar.io/issues/" target="_blank">See all feature requests ranked by demand &raquo;</a>
+<br />
+(powered by <a href="https://github.com/arshaw/ghi-scoreboard" target="_blank">ghi-scoreboard</a>)
+
 
 ## Step 2: Is it a valid feature?
 
