@@ -12,21 +12,21 @@ For more info on this technique, read [Reduced Test Cases](http://css-tricks.com
 
 ## Step 2: Post a public demonstration of the bug
 
-Use a service like [JSBin](http://jsbin.com/) or [JSFiddle](http://jsfiddle.net/) to demonstrate the bug online. Enter your JS, CSS, HTML, and JSON and wire up all the relevant dependencies (jQuery, Moment, etc). To help you get started, here are some **debugging templates:**
+Use a service like [Codepen](http://codepen.io/) or [JSFiddle](http://jsfiddle.net/) to demonstrate the bug online. Enter your JS, CSS, HTML, and JSON and wire up all the relevant dependencies (jQuery, Moment, etc). To help you get started, here are some **debugging templates:**
 
 <div style='margin:2em 0 2em 2em'>
 	<div style='font-weight:bold'>FullCalendar Standard</div>
 	<div style='margin-top:.5em'>
-		<a href='../playground/jsbin.php' target='_blank'>simple template</a> |
-		<a href='../playground/jsbin.php?demo=json' target='_blank'>JSON feed template</a>
+		<a href='../playground/codepen.php' target='_blank'>simple template</a> |
+		<a href='../playground/codepen.php?demo=json' target='_blank'>JSON feed template</a>
 	</div>
 </div>
 
 <div style='margin:2em 0 2em 2em'>
 	<div style='font-weight:bold'>Scheduler Add-on</div>
 	<div style='margin-top:.5em'>
-		<a href='../playground/jsbin.php?demo=scheduler' target='_blank'>simple template</a> |
-		<a href='../playground/jsbin.php?demo=scheduler-json' target='_blank'>JSON feed template</a>
+		<a href='../playground/codepen.php?demo=scheduler' target='_blank'>simple template</a> |
+		<a href='../playground/codepen.php?demo=scheduler-json' target='_blank'>JSON feed template</a>
 	</div>
 </div>
 
