@@ -1,5 +1,5 @@
-- [[Support]]
-	- [[Reporting Bugs]]
-	- [[Requesting Features]]
+- [[Reporting Bugs]]
+- [[Requesting Features]]
+- [[Reduced Test Cases]]
 - [[Contributing]]
 - [[Automated Tests]]
