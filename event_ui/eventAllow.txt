@@ -19,7 +19,7 @@ at the given location (`dropInfo`).
 
 	eventAllow: function(dropLocation, draggedEvent) {
 		if (draggedEvent.id === '999') {
-			return dropLocation.isAfter('2016-01-01'); // a boolean
+			return dropLocation.start.isAfter('2016-01-01'); // a boolean
 		}
 		else {
 			return true;

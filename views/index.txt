@@ -13,4 +13,4 @@ Views
 <li class='method'><a href='changeView'>changeView (method)</a></li>
 </ul>
 
-See also: <a href='../display/viewDisplay'>viewDisplay</a>
+See also: <a href='../display/viewRender'>viewRender</a>
