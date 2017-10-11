@@ -1,0 +1,11 @@
+
+columnHeader *3.6.0*
+====================
+
+For the Agenda and Basic views, whether the day columns should appear.
+
+<div class="spec" markdown="1">
+Boolean, *default*: `true`
+</div>
+
+The default is to show these columns, but if you would like to hide the column header, especially if you have a single-day view and you feel the column header is unnecessary, you can set it to `false`.
