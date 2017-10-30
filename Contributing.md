@@ -8,6 +8,14 @@ FullCalendar has a lot of configuration options and some complex behavior, and o
 Visit the [StackOverflow **fullcalendar** tag](http://stackoverflow.com/questions/tagged/fullcalendar)
 
 
+## Writing Code
+
+The project welcomes bugfixes and features.
+[Instructions for contributing code &raquo;](https://github.com/fullcalendar/fullcalendar/blob/master/CONTRIBUTING.md)
+
+There are two particular projects needing attention: removing jQuery as a dependency and converting the codebase to TypeScript. [More information &raquo;](https://docs.google.com/forms/d/e/1FAIpQLScEQ8XcIvH-HEvepvqnOdFq2-hGW3iPK3yB9QN6XW56JOmO8g/viewform)
+
+
 ## Issue Tracker Triage
 
 The issue tracker gets submissions that are often not very useful in their initial form. They need to be fleshed out in some way:
@@ -19,15 +27,9 @@ The issue tracker gets submissions that are often not very useful in their initi
 
 The goal is to make every issue *actionable*, so that its need is established and its implementation clear.
 
-If you know what you're doing with issue triage, and would like to contribute, please [contact me](../../contact/) and I'll set you up with the correct permissions.
-
-
-## Writing Code
-
-The project welcomes bugfixes and features.
-[Instructions for contributing code &raquo;](https://github.com/fullcalendar/fullcalendar/blob/master/CONTRIBUTING.md)
+[A paid position is available &raquo;](https://docs.google.com/forms/d/e/1FAIpQLSdDXiO7DswqqLqLtyPaQ2puIsGhLZrfX828MFCOEwL6lgqmxQ/viewform)
 
 
 ## Improving the Docs
 
-The documentation needs some love, especially with providing examples. An official process is not yet in place, but if you are interested in helping at some point, please [contact me](http://arshaw.com/contact/).
+The documentation needs some love, especially with providing examples. [A paid position is available &raquo;](https://docs.google.com/forms/d/e/1FAIpQLSdDXiO7DswqqLqLtyPaQ2puIsGhLZrfX828MFCOEwL6lgqmxQ/viewform)
