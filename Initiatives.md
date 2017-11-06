@@ -3,6 +3,9 @@
 
 I (@arshaw) am currently in-progress with converting the main codebase to TypeScript (everything in the `src/` directory), which is a superset of ES6. I'm converting all of the `Class.extend` declarations to true TypeScript classes, converting each individual file over to a module, connect dependant modules together, and various other cleanup. I'm making heavy use of the "implicit any", and not locking down types just yet. The biggest gain is that we get an ES6 module system and can pull in dependencies from NPM.
 
+*update (Nov 5):* mostly complete
+https://github.com/fullcalendar/fullcalendar/tree/typescript
+
 TypeScript's compilation checks will greatly help us with the removal of jQuery.
 
 The conversion should be done in the next few days, hopefully by Nov 6th or 7th. If you'd like to proceed with the Removal-of-jQuery project, it's probably best to start with a place that won't be affect by the TypeScript conversion, such as converting legacy tests (mentioned below). However, modifying JS files in the `src/` directory should also be fine. I am using some git magic to retain the relationship between `.js -> .ts` files, so that merges still work.
