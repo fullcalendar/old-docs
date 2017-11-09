@@ -86,6 +86,19 @@ currentCalendar.updateEvent(eventObj);
 
 As you can see, the `currentCalendar` object is available for you in any `it()` statement.
 
+To access the current calendar's DOM nodes, take something that was previously like this:
+
+```js
+var slats = $('#cal .fc-slat');
+```
+
+And convert it to this:
+
+```js
+var slats = $(currentCalendar.el).find('.fc-slats');
+// please wrap currentCalendar.el in $() as it won't always be a jQuery object
+```
+
 Here is an example of a conversion:
 https://github.com/fullcalendar/fullcalendar/commit/1c673b658a849ddd082c634697d41d79abd3d48f
 
