@@ -86,6 +86,7 @@ currentCalendar.updateEvent(eventObj);
 
 As you can see, the `currentCalendar` object is available for you in any `it()` statement.
 
+<<<<<<< HEAD
 To access the current calendar's DOM nodes, take something that was previously like this:
 
 ```js
@@ -97,6 +98,40 @@ And convert it to this:
 ```js
 var slats = $(currentCalendar.el).find('.fc-slats');
 // please wrap currentCalendar.el in $() as it won't always be a jQuery object
+```
+
+References to `spyOn` that look like this:
+
+```js
+it('receives correct args AND can modify the element', function(done) {
+	options.events = [ {
+		title: 'my event',
+		start: '2014-11-12T09:00:00'
+	} ];
+	options.eventRender = function(event, element, view) {
+		element.css('font-size', '20px');
+	};
+	spyOn(options, 'eventRender').and.callThrough();
+	$('#cal').fullCalendar(options);
+});
+```
+
+Will become this...
+
+```js
+it('receives correct args AND can modify the element', function(done) {
+	var options = {
+		events: [ {
+			title: 'my event',
+			start: '2014-11-12T09:00:00'
+		} ],
+		eventRender: function(event, element, view) {
+			element.css('font-size', '20px');
+		}
+	};
+	spyOn(options, 'eventRender').and.callThrough();
+	initCalendar(options);
+});
 ```
 
 Here is an example of a conversion:
