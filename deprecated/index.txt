@@ -4,3 +4,4 @@ Deprecated
 
 - [theme](../display/theme)
 - [eventResourceField](../resource_data/eventResourceField)
+- [columnFormat](../text/columnFormat)

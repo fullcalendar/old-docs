@@ -5,7 +5,7 @@ Text/Time Customization
 <ul>
 <li>locale</li>
 <li>timeFormat</li>
-<li>columnFormat</li>
+<li>columnHeaderFormat</li>
 <li>titleFormat</li>
 <li>buttonText</li>
 <li>monthNames</li>
