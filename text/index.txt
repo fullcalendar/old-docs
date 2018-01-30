@@ -6,6 +6,8 @@ Text/Time Customization
 <li>locale</li>
 <li>timeFormat</li>
 <li>columnHeaderFormat</li>
+<li>columnHeaderText</li>
+<li>columnHeaderHtml</li>
 <li>titleFormat</li>
 <li>buttonText</li>
 <li>monthNames</li>

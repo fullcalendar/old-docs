@@ -16,3 +16,5 @@ As noted above, each view has a specific default. Get fine-tuned control with [V
 A single string alone will set the value for all views.
 
 The default values will change based on the current [locale](../text/locale).
+
+If you need programmatic control, use [columnHeaderText](columnHeaderText) or [columnHeaderHtml](columnHeaderHtml) instead.
