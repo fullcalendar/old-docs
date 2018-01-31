@@ -18,3 +18,7 @@ A single string alone will set the value for all views.
 The default values will change based on the current [locale](../text/locale).
 
 If you need programmatic control, use [columnHeaderText](columnHeaderText) or [columnHeaderHtml](columnHeaderHtml) instead.
+
+<div class='version-info' markdown='1'>
+This setting was renamed from *columnFormat* in version 3.8.0
+</div>
