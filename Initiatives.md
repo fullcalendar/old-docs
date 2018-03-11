@@ -86,7 +86,6 @@ currentCalendar.updateEvent(eventObj);
 
 As you can see, the `currentCalendar` object is available for you in any `it()` statement.
 
-<<<<<<< HEAD
 To access the current calendar's DOM nodes, take something that was previously like this:
 
 ```js
